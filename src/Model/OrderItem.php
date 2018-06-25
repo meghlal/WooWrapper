@@ -6,7 +6,7 @@
  * Time: 2:25 AM
  */
 
-namespace Primitiveonline\Woocommerce\Model;
+namespace Meghlal\Woocommerce\Model;
 
 
 class OrderItem

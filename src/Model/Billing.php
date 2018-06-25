@@ -6,7 +6,7 @@
  * Time: 2:08 AM
  */
 
-namespace Primitiveonline\Woocommerce\Model;
+namespace Meghlal\Woocommerce\Model;
 
 
 class Billing

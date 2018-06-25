@@ -1,9 +1,9 @@
-<?php namespace Primitiveonline\Woocommerce;
+<?php namespace Meghlal\Woocommerce;
 
 use Automattic\WooCommerce\Client;
 use Automattic\WooCommerce\HttpClient\HttpClientException;
 
-use Primitiveonline\Woocommerce\Model\Order;
+use Meghlal\Woocommerce\Model\Order;
 use JsonMapper;
 
 class Base{
