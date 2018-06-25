@@ -463,7 +463,7 @@ class Order
     /**
      * @param mixed $billing
      */
-    public function setBilling($billing)
+    public function setBilling(Billing $billing)
     {
         $this->billing = $billing;
     }
@@ -479,7 +479,7 @@ class Order
     /**
      * @param mixed $shipping
      */
-    public function setShipping($shipping)
+    public function setShipping(Shipping $shipping)
     {
         $this->shipping = $shipping;
     }
