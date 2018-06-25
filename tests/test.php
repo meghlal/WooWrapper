@@ -8,8 +8,10 @@ $orders = $woo->getOrders();
 
 echo '<pre>';
 
+
 foreach ($orders as $order){
     print_r($order);
 }
+
 
 echo '</pre>';
